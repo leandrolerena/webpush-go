@@ -1,3 +1,5 @@
+**This is just a fork with a patch i needed. All credit goes to @SherClockHolmes**
+
 # webpush-go
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/SherClockHolmes/webpush-go)](https://goreportcard.com/report/github.com/SherClockHolmes/webpush-go)
